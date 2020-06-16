@@ -5,7 +5,8 @@
     - useState, useEffect  use @function compoment
     - function in function compoment must declare in 'const' fisrt
     - function in  React pure Compoment.   can use ' this.xxxx '  to call
-[demo.mp4](https://github.com/kingbike/pratice-ReactRedux-ToDoList/raw/master/demo.mp4)
+[![Demo](https://github.com/kingbike/pratice-ReactRedux-ToDoList/raw/master/demo.png)](https://github.com/kingbike/pratice-ReactRedux-ToDoList/raw/master/demo.mp4)
+
 # Prework
 ---
     # create project and install packages.
@@ -20,3 +21,4 @@
         $ npm install -g sass
         $ npm install node-sass
 
+[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://youtu.be/vt5fpE0bzSY)
