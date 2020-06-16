@@ -5,7 +5,7 @@
     - useState, useEffect  use @function compoment
     - function in function compoment must declare in 'const' fisrt
     - function in  React pure Compoment.   can use ' this.xxxx '  to call
-[![Demo](https://github.com/kingbike/pratice-ReactRedux-ToDoList/raw/master/demo.png)](https://github.com/kingbike/pratice-ReactRedux-ToDoList/raw/master/demo.mp4)
+[demo.mp4](https://github.com/kingbike/pratice-ReactRedux-ToDoList/raw/master/demo.mp4)
 
 # Prework
 ---
